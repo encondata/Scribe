@@ -1,0 +1,16 @@
+PySide6
+ast
+csv
+datetime
+os
+platform
+shutil
+socket
+subprocess
+sys
+zpl_templates
+paho-mqtt
+Requestes
+Zebra
+
+

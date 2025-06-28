@@ -1,0 +1,12 @@
+asset id,asset name,asset event,asset make,asset model,asset srack,asset spos,asset track,asset tpos,asset current status,asset sbuilding,asset sroom,asset owner,asset serial num,asset wave,asset tbuilding,asset troom,asset proj id,asset scr team,asset crate,asset cust asset tag,nap,sector,pod,row,rack,ru,floor,room,,source site,target site,move date
+60517,etx-sen-wsd-01 (app-sen-wsd-01),8789,,Dell R6515,B07,22,C10,4,,,,,67638K3,,,,,,,,,,11,72,AB12,12,1,55,,Seoul,Tokyo,16-Jan-25
+60518,bld-sen-wsd-74,8789,,Dell R6515,B07,20,C10,5,,,,,3L30ZP3,,,,,,,,,,11,72,AB12,13,1,55,,Seoul,Tokyo,16-Jan-25
+60519,bld-sen-wsd-73,8789,,Dell R6515,B07,18,C10,7,,,,,2L30ZP3,,,,,,,,,,11,72,AB12,14,1,55,,Seoul,Tokyo,16-Jan-25
+60520,bld-sen-wsd-72,8789,,Dell R6515,B07,16,C10,9,,,,,HK30ZP3,,,,,,,,,,11,72,AB12,15,1,55,,Seoul,Tokyo,16-Jan-25
+60521,bld-sen-wsd-71,8789,,Dell R6515,B07,14,C10,11,,,,,DK30ZP3,,,,,,,,,,11,72,AB12,16,1,55,,Seoul,Tokyo,16-Jan-25
+60522,bld-sen-wsd-70,8789,,Dell R6515,B07,12,C10,13,,,,,JK30ZP3,,,,,,,,,,11,72,AB12,17,1,55,,Seoul,Tokyo,16-Jan-25
+60523,bld-sen-wsd-69,8789,,Dell R6515,B07,10,C10,15,,,,,4L30ZP3,,,,,,,,,,11,72,AB12,18,1,55,,Seoul,Tokyo,16-Jan-25
+60524,bld-sen-wsd-68,8789,,Dell R6515,B07,8,C10,17,,,,,FK30ZP3,,,,,,,,,,11,72,AB12,19,1,55,,Seoul,Tokyo,16-Jan-25
+60525,bld-sen-wsd-67,8789,,Dell R6515,B07,6,C10,19,,,,,GK30ZP3,,,,,,,,,,11,72,AB12,20,1,55,,Seoul,Tokyo,16-Jan-25
+60526,bld-sen-wsd-66,8789,,Dell R6515,B07,4,C10,21,,,,,CK30ZP3,,,,,,,,,,11,72,AB12,21,1,55,,Seoul,Tokyo,16-Jan-25
+60527,bld-sen-wsd-65,8789,,Dell R6515,B07,2,C10,23,,,,,1L30ZP3,,,,,,,,,,11,72,AB12,22,1,55,,Seoul,Tokyo,16-Jan-25
