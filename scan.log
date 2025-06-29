@@ -11,3 +11,17 @@ scan_code,label_type,label_format,num_to_print,move_name,source_location,printer
 60517,Top,Amsterdam,1,Future Use,Scanning Station,IP,2025-06-27T18:38:15.621875
 6-524,Top,Amsterdam,1,Future Use,Scanning Station,IP,2025-06-27T18:38:20.646786
 60522,Top,Amsterdam,1,Future Use,Scanning Station,IP,2025-06-27T18:38:26.164265
+60517,Top,Vegas,1,Future Use,Scanning Station,IP,2025-06-28T14:55:56.535192
+60517,Top,Amsterdam,1,Future Use,Scanning Station,IP,2025-06-28T14:56:42.655437
+60517,Top,Amsterdam,4,Future Use,Scanning Station,IP,2025-06-28T14:56:59.143554
+60517,Front,Vegas,1,Future Use,Scanning Station,USB,2025-06-28T15:00:17.131294
+60517,Front,Vegas,1,Future Use,Scanning Station,IP,2025-06-28T15:00:29.126726
+all,Front,Vegas,1,Future Use,Scanning Station,IP,2025-06-28T15:01:02.400298
+print all labls,Front,Vegas,1,Future Use,Scanning Station,IP,2025-06-28T15:18:44.300436
+all,Front,Vegas,1,Future Use,Scanning Station,IP,2025-06-28T15:18:50.832979
+paint all labels,Front,Vegas,4,Future Use,Scanning Station,IP,2025-06-28T15:25:58.963447
+print all labels,Front,Vegas,1,Future Use,Scanning Station,IP,2025-06-28T15:32:48.023824
+print all labels,Front,Vegas,1,Future Use,Scanning Station,IP,2025-06-28T15:33:01.960599
+60518,Front,Vegas,1,Future Use,Scanning Station,IP,2025-06-28T15:37:44.279295
+605127,Top,Vegas,1,Future Use,Pre-Staging,USB,2025-06-28T19:57:19.840561
+60518,Top,Vegas,1,Future Use,Pre-Staging,USB,2025-06-28T19:57:26.884618
